@@ -1,0 +1,198 @@
+Entity,Code,Year,bioweapons_status_hist_num
+Afghanistan,AFG,2022,0
+Albania,ALB,2022,0
+Algeria,DZA,2022,0
+Andorra,AND,2022,0
+Angola,AGO,2022,0
+Antigua and Barbuda,ATG,2022,0
+Argentina,ARG,2022,0
+Armenia,ARM,2022,0
+Australia,AUS,2022,0
+Austria,AUT,2022,0
+Azerbaijan,AZE,2022,0
+Bahamas,BHS,2022,0
+Bahrain,BHR,2022,0
+Bangladesh,BGD,2022,0
+Barbados,BRB,2022,0
+Belarus,BLR,2022,0
+Belgium,BEL,2022,0
+Belize,BLZ,2022,0
+Benin,BEN,2022,0
+Bhutan,BTN,2022,0
+Bolivia,BOL,2022,0
+Bosnia and Herzegovina,BIH,2022,0
+Botswana,BWA,2022,0
+Brazil,BRA,2022,0
+Brunei,BRN,2022,0
+Bulgaria,BGR,2022,0
+Burkina Faso,BFA,2022,0
+Burundi,BDI,2022,0
+Cabo Verde,,2022,0
+Cambodia,KHM,2022,0
+Cameroon,CMR,2022,0
+Canada,CAN,2022,4
+Central African Republic,CAF,2022,0
+Chad,TCD,2022,0
+Chile,CHL,2022,0
+China,CHN,2022,1
+Colombia,COL,2022,0
+Comoros,COM,2022,0
+Congo,COG,2022,0
+Cook Islands,COK,2022,0
+Costa Rica,CRI,2022,0
+Cote d'Ivoire,CIV,2022,0
+Croatia,HRV,2022,0
+Cuba,CUB,2022,0
+Cyprus,CYP,2022,0
+Czechia,CZE,2022,0
+Democratic Republic of Congo,COD,2022,0
+Denmark,DNK,2022,0
+Djibouti,DJI,2022,0
+Dominica,DMA,2022,0
+Dominican Republic,DOM,2022,0
+Ecuador,ECU,2022,0
+Egypt,EGY,2022,3
+El Salvador,SLV,2022,0
+Equatorial Guinea,GNQ,2022,0
+Eritrea,ERI,2022,0
+Estonia,EST,2022,0
+Eswatini,SWZ,2022,0
+Ethiopia,ETH,2022,0
+Fiji,FJI,2022,0
+Finland,FIN,2022,0
+France,FRA,2022,2
+Gabon,GAB,2022,0
+Gambia,GMB,2022,0
+Georgia,GEO,2022,0
+Germany,DEU,2022,5
+Ghana,GHA,2022,0
+Greece,GRC,2022,0
+Grenada,GRD,2022,0
+Guatemala,GTM,2022,0
+Guinea,GIN,2022,0
+Guinea-Bissau,GNB,2022,0
+Guyana,GUY,2022,0
+Haiti,HTI,2022,0
+Holy See,,2022,0
+Honduras,HND,2022,0
+Hungary,HUN,2022,0
+Iceland,ISL,2022,0
+India,IND,2022,0
+Indonesia,IDN,2022,0
+Iran,IRN,2022,1
+Iraq,IRQ,2022,4
+Ireland,IRL,2022,0
+Israel,ISR,2022,1
+Italy,ITA,2022,0
+Jamaica,JAM,2022,0
+Japan,JPN,2022,5
+Jordan,JOR,2022,0
+Kazakhstan,KAZ,2022,0
+Kenya,KEN,2022,0
+Kiribati,KIR,2022,0
+Kuwait,KWT,2022,0
+Kyrgyzstan,KGZ,2022,0
+Laos,LAO,2022,0
+Latvia,LVA,2022,0
+Lebanon,LBN,2022,0
+Lesotho,LSO,2022,0
+Liberia,LBR,2022,0
+Libya,LBY,2022,2
+Liechtenstein,LIE,2022,0
+Lithuania,LTU,2022,0
+Luxembourg,LUX,2022,0
+Madagascar,MDG,2022,0
+Malawi,MWI,2022,0
+Malaysia,MYS,2022,0
+Maldives,MDV,2022,0
+Mali,MLI,2022,0
+Malta,MLT,2022,0
+Marshall Islands,MHL,2022,0
+Mauritania,MRT,2022,0
+Mauritius,MUS,2022,0
+Mexico,MEX,2022,0
+Micronesia,,2022,0
+Moldova,MDA,2022,0
+Monaco,MCO,2022,0
+Mongolia,MNG,2022,0
+Montenegro,MNE,2022,0
+Morocco,MAR,2022,0
+Mozambique,MOZ,2022,0
+Myanmar,MMR,2022,0
+Namibia,NAM,2022,0
+Nauru,NRU,2022,0
+Nepal,NPL,2022,0
+Netherlands,NLD,2022,0
+New Zealand,NZL,2022,0
+Nicaragua,NIC,2022,0
+Niger,NER,2022,0
+Nigeria,NGA,2022,0
+Niue,NIU,2022,0
+North Korea,PRK,2022,1
+North Macedonia,MKD,2022,0
+Norway,NOR,2022,0
+Oman,OMN,2022,0
+Pakistan,PAK,2022,0
+Palau,PLW,2022,0
+Palestine,PSE,2022,0
+Panama,PAN,2022,0
+Papua New Guinea,PNG,2022,0
+Paraguay,PRY,2022,0
+Peru,PER,2022,0
+Philippines,PHL,2022,0
+Poland,POL,2022,0
+Portugal,PRT,2022,0
+Qatar,QAT,2022,0
+Romania,ROU,2022,0
+Russia,RUS,2022,4
+Rwanda,RWA,2022,0
+Saint Kitts and Nevis,KNA,2022,0
+Saint Lucia,LCA,2022,0
+Saint Vincent and the Grenadines,VCT,2022,0
+Samoa,WSM,2022,0
+San Marino,SMR,2022,0
+Sao Tome and Principe,STP,2022,0
+Saudi Arabia,SAU,2022,0
+Senegal,SEN,2022,0
+Serbia,SRB,2022,0
+Seychelles,SYC,2022,0
+Sierra Leone,SLE,2022,0
+Singapore,SGP,2022,0
+Slovakia,SVK,2022,0
+Slovenia,SVN,2022,0
+Solomon Islands,SLB,2022,0
+Somalia,SOM,2022,0
+South Africa,ZAF,2022,5
+South Korea,KOR,2022,0
+South Sudan,SSD,2022,0
+Spain,ESP,2022,0
+Sri Lanka,LKA,2022,0
+Sudan,SDN,2022,0
+Suriname,SUR,2022,0
+Sweden,SWE,2022,0
+Switzerland,CHE,2022,0
+Syria,SYR,2022,4
+Tajikistan,TJK,2022,0
+Tanzania,TZA,2022,0
+Thailand,THA,2022,0
+Timor-Leste,,2022,0
+Togo,TGO,2022,0
+Tonga,TON,2022,0
+Trinidad and Tobago,TTO,2022,0
+Tunisia,TUN,2022,0
+Turkey,TUR,2022,0
+Turkmenistan,TKM,2022,0
+Tuvalu,TUV,2022,0
+Uganda,UGA,2022,0
+Ukraine,UKR,2022,0
+United Arab Emirates,ARE,2022,0
+United Kingdom,GBR,2022,4
+United States,USA,2022,4
+Uruguay,URY,2022,0
+Uzbekistan,UZB,2022,0
+Vanuatu,VUT,2022,0
+Venezuela,VEN,2022,0
+Vietnam,VNM,2022,0
+Yemen,YEM,2022,0
+Zambia,ZMB,2022,0
+Zimbabwe,ZWE,2022,0

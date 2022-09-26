@@ -1,0 +1,361 @@
+Entity,Code,year,Day,Training_computation_petaflop,Domain
+6-layer MLP (MNIST),,2010,2010-03-01,0.13,Vision
+A3C FF hs,,2016,2016-02-04,NA,Games
+ADALINE,,1960,1960-06-30,9.9e-12,Vision
+ADAM (CIFAR-10),,2014,2014-12-22,60,Vision
+ALBERT,,2019,2019-09-26,NA,Language
+ALBERT-xxlarge,,2020,2020-02-09,2500000,Language
+ALIGN,,2021,2021-06-11,220000000,Multimodal
+ALVINN,,1989,1989-12-01,0.000081,Driving
+AMDIM,,2019,2019-06-03,NA,Drawing
+ASE+ACE,,1983,1983-09-01,NA,Games
+Adaptive Broom Balancer,,1988,1988-07-24,NA,Games
+Advantage Learning,,2015,2015-12-15,NA,Games
+Agent57,,2020,2020-03-30,NA,Games
+AlexNet,,2012,2012-09-30,470,Vision
+AlphaCode,,2022,2022-02-02,NA,Language
+AlphaFold,,2020,2020-01-15,100000,Other
+AlphaFold2,,2020,2020-11-30,NA,Other
+AlphaGo Fan,,2015,2015-10-01,380000,Games
+AlphaGo Lee,,2016,2016-01-27,1900000,Games
+AlphaGo Master,,2017,2017-01-01,150000000,Games
+AlphaGo Zero,,2017,2017-10-19,340000000,Games
+AlphaStar,,2019,2019-10-30,200000000,Games
+AlphaX-1,,2019,2019-10-02,7600,Vision
+AlphaZero,,2017,2017-12-05,37000000,Games
+AmoebaNet-A (F=190),,2018,2018-02-05,NA,Vision
+AmoebaNet-A (F=448),,2018,2018-02-05,390000,Vision
+AraGPT2-Mega,,2020,2020-12-31,2000000,Language
+BART-large,,2019,2019-10-29,NA,Language
+BERT-Large,,2018,2018-10-11,290000,Language
+BLSTM,,2007,2007-12-03,NA,Vision
+BOXES,,1968,1968-07-01,NA,Games
+BPE,,2015,2015-08-31,NA,Language
+BPL,,2015,2015-12-11,NA,Drawing
+BRNN,,1997,1997-11-01,NA,Speech
+BaGuaLu,,2022,2022-03-28,NA,Other
+Back-propagation,,1986,1986-10-01,1.2e-7,Other
+BatchNorm,,2015,2015-06-15,NA,Other
+BellKor 2007,,2009,2009-09-21,NA,Recommendation
+BellKor 2008,,2009,2009-08-01,NA,Recommendation
+BiLSTM for Speech,,2005,2005-08-01,0.024,Speech
+Big Transfer (BiT-L),,2019,2019-12-24,NA,Vision
+BigBiGAN,,2019,2019-07-04,NA,Drawing
+BigChaos 2008,,2008,2008-11-25,NA,Recommendation
+BigGAN-deep 512x512,,2018,2018-09-28,3000000,Drawing
+BigSSL,,2021,2021-01-10,NA,Speech
+Bootstrap Adaptation,,1973,1973-09-01,NA,Games
+Boss (DARPA Urban Challenge),,2008,2008-07-23,NA,Driving
+CLIP (ResNet-50),,2021,2021-01-05,NA,Multimodal
+CLIP (ViT L/14@336px),,2021,2021-01-05,11000000,Multimodal
+CNN Best Practices,,2003,2003-08-06,NA,Vision
+CPC v2,,2019,2019-05-22,NA,Drawing
+CPM-Large,,2020,2020-12-01,1800000,Language
+CTC-Trained LSTM,,2006,2006-06-25,NA,Speech
+CURL,,2020,2020-04-08,NA,Games
+CapsNet (MNIST),,2017,2017-10-26,NA,Vision
+CapsNet (MultiMNIST),,2017,2017-10-26,NA,Vision
+Chinchilla,,2022,2022-03-29,580000000,Language
+Chinese - English translation,,2018,2018-03-01,NA,Language
+Cloob,,2021,2021-10-21,NA,Multimodal
+Codex,,2021,2021-07-07,NA,Language
+CogView,,2021,2021-05-26,27000000,Drawing
+Cognitron,,1975,1975-09-01,NA,Other
+Constituency-Tree LSTM,,2015,2015-02-28,NA,Language
+Cross-lingual alignment,,2019,2019-04-04,2600,Other
+DALL-E,,2021,2021-01-05,47000000,Drawing
+DALL·E 2,,2022,2022-04-06,NA,Drawing
+DBLSTM,,2013,2013-12-08,NA,Speech
+DBNs,,2014,2014-02-11,NA,Language
+DIABETES,,1991,1991-06-24,NA,Other
+DImensionality Reduction,,2006,2006-07-18,NA,Vision
+DLRM-12T,,2021,2021-04-12,NA,Recommendation
+DLRM-2020,,2019,2019-05-31,4000,Recommendation
+DLRM-2021,,2020,2020-07-01,300000,Recommendation
+DMN,,2016,2016-06-20,NA,Language
+DQN,,2013,2013-01-01,2.3,Games
+DQN-2015,,2015,2015-02-25,NA,Games
+DSN,,2015,2015-05-09,NA,VIsion
+DeBERTa,,2021,2021-06-10,NA,Language
+Decision tree (classification),,2001,2001-12-08,0.063,Vision
+Deconvolutional Network,,2010,2010-06-13,NA,Vision
+Decoupled weight decay regularization,,2019,2019-01-04,2500,Vision
+Deep Belief Nets,,2006,2006-07-18,NA,Vision
+Deep Boltzmann Machines,,2009,2009-04-16,NA,Other
+DeepLab,,2014,2014-12-22,NA,Vision
+DeepLabV3,,2017,2017-06-17,NA,Vision
+DeepLabV3+,,2018,2018-02-07,NA,Vision
+DeepNet,,2022,2022-03-01,NA,Language
+DeepSpeech2,,2015,2015-12-08,26000,Speech
+DeepStack,,2017,2017-01-06,0.15,Games
+Denoising Autoencoders,,2008,2008-07-05,NA,Other
+Denoising Diffusion Probabilistic Models (LSUN Bedroom),,2021,2021-06-11,1600,Drawing
+DenseNet-264,,2016,2016-08-25,NA,Vision
+DistilBERT,,2019,2019-10-02,NA,Language
+Domain Adaptation,,2011,2011-11-06,NA,Vision
+DrLIM,,2006,2006-06-17,NA,Vision
+Dropout (CIFAR),,2012,2012-06-03,NA,Vision
+Dropout (ImageNet),,2012,2012-06-03,NA,Vision
+Dropout (MNIST),,2012,2012-06-03,6,Vision
+Dropout (TIMIT),,2012,2012-06-03,NA,Speech
+ELECTRA,,2020,2020-03-23,NA,Language
+ELMo,,2018,2018-02-01,NA,Language
+ERNIE 3.0,,2021,2021-07-05,2400,Language
+ERNIE-GEN (large),,2020,2020-08-06,NA,Language
+ESRGAN,,2018,2018-09-01,NA,Vision
+EfficientDet,,2020,2020-07-27,NA,Vision
+EfficientNet-L2,,2019,2019-05-28,NA,Vision
+EfficientZero,,2021,2021-10-30,NA,Games
+FAST,,2006,2006-05-07,NA,Vision
+FLAN,,2021,2021-09-03,NA,Language
+FTW,,2019,2019-05-31,7300000,Games
+Fast R-CNN,,2015,2015-04-30,NA,Vision
+Faster R-CNN,,2015,2015-06-04,NA,Vision
+Feedforward NN,,2010,2010-05-13,0.35,Vision
+FixRes ResNeXt-101 WSL,,2019,2019-06-14,NA,Vision
+Flamingo,,2022,2022-04-29,NA,Multimodal
+Fuzzy NN,,1992,1992-09-01,3e-9,Speech
+GANs,,2014,2014-06-10,520,Drawing
+GLEE,,1968,1968-07-01,NA,Games
+GLIDE,,2021,2021-12-20,NA,Drawing
+GNMT,,2016,2016-09-26,6900000,Language
+GOAT,,2021,2021-07-27,78000000,Games
+GPT,,2018,2018-06-01,18000,Language
+GPT-2,,2019,2019-02-14,1500000,Language
+GPT-3 175B,,2020,2020-04-28,310000000,Language
+GPT-J-6B,,2021,2021-05-01,15000000,Language
+GPT-Neo,,2021,2021-03-21,7900000,Language
+GPT-NeoX-20B,,2022,2022-02-09,93000000,Language
+GPU DBNs,,2009,2009-06-15,1,Other
+GPipe (Amoeba),,2018,2018-11-16,NA,Vision
+GPipe (Transformer),,2018,2018-11-16,NA,Language
+GRUs,,2014,2014-06-03,NA,Language
+GShard (600B),,2020,2020-06-30,13000000,Language
+GShard (dense),,2020,2020-06-30,26000000,Language
+Gato,,2022,2022-05-12,5400000,Multimodal
+Generative BST,,2021,2021-03-05,NA,Language
+GloVe (32B),,2014,2014-01-01,NA,Language
+GloVe (6B),,2014,2014-01-01,NA,Language
+Go-explore,,2020,2020-04-27,NA,Games
+GoogLeNet / InceptionV1,,2015,2015-06-07,1600,Vision
+Gopher,,2021,2021-12-08,630000000,Language
+GroupLens,,1994,1994-10-22,NA,Recommendation
+Grover-Mega,,2019,2019-05-29,NA,Language
+HMM Word Alignment,,1996,1996-08-05,NA,Language
+HRA,,2017,2017-06-13,NA,Games
+Hanabi 4 player,,2019,2019-02-01,92,Games
+Hide and Seek,,2019,2019-09-17,300,Games
+Hiero,,2005,2005-06-01,NA,Language
+Hopfield Networks (2020),,2020,2020-07-16,NA,Other
+Hopfield network,,1982,1982-04-01,NA,Other
+HuBERT,,2021,2021-07-27,5500000,Language
+HyperClova,,2021,2021-05-25,63000000,Language
+HyperNEAT,,2014,2014-03-05,NA,Games
+IBM Model 4,,1999,1999-07-02,NA,Language
+IBM-5,,1993,1993-06-15,NA,Language
+IMPALA,,2018,2018-02-05,170000,Games
+Image generation,,2013,2013-12-20,0.48,Vision
+Imagen,,2022,2022-05-23,NA,Vision
+Immediate trihead,,2001,2001-07-06,NA,Language
+Inception v3,,2015,2015-12-02,NA,Vision
+Inception-ResNet-V2,,2016,2016-02-23,NA,Vision
+Inceptionv4,,2016,2016-02-23,NA,Vision
+InstructGPT,,2022,2022-01-27,NA,Language
+JFT,,2017,2017-08-04,480000,Vision
+Japanese dialog transformers,,2021,2021-11-09,NA,Language
+Jurassic-1-Jumbo,,2021,2021-08-11,370000000,Language
+Jurassic-X,,2022,2022-05-03,NA,Language
+KEPLER,,2020,2020-11-23,120000,Language
+KN5 LM + RNN 400/10 (WSJ),,2010,2010-09-26,61,Speech
+Kohonen network,,1981,1981-07-25,NA,Other
+LDA,,2003,2003-02-02,NA,Language
+LIRA,,2004,2004-07-30,NA,Vision
+LMS,,1960,1960-06-30,NA,Other
+LRCN,,2014,2014-11-07,NA,Vision
+LSTM,,1997,1997-11-15,0.021,Other
+LaMDA,,2022,2022-02-10,360000000,Language
+LeNet-5,,1998,1998-11-01,0.0028,Vision
+Libratus,,2017,2017-01-01,1100000,Games
+M6-100B,,2021,2021-03-01,NA,Multimodal
+M6-10B,,2021,2021-03-01,NA,Multimodal
+M6-10T,,2021,2021-10-08,5500000,Multimodal
+M6-T,,2021,2021-03-05,NA,Multimodal
+MADALINE I,,1962,1962-07-01,NA,Other
+MADALINE II,,1988,1988-07-24,NA,Other
+MADALINE III,,1990,1990-09-01,NA,Other
+MCDNN (MNIST),,2012,2012-02-13,3.7,Vision
+MEB,,2021,2021-09-04,NA,Search
+MENACE,,1963,1963-11-01,NA,Games
+MS-CNN,,2016,2016-09-17,NA,Vision
+"MSRA (C, PReLU)",,2015,2015-01-09,24000,Vision
+MT-DNN,,2019,2019-01-31,NA,Language
+MV-RNN,,2012,2012-07-12,NA,Language
+Mask R-CNN,,2017,2017-03-30,NA,Vision
+Maxout Networks ,,2013,2013-02-18,NA,Vision
+Meena,,2020,2020-01-28,110000000,Language
+Megatron-BERT,,2019,2019-09-17,57000000,Language
+Megatron-LM,,2019,2019-09-17,9100000,Language
+Megatron-Turing NLG 530B,,2021,2021-10-11,1400000000,Language
+MetNet,,2020,2020-03-24,NA,Other
+Meta Pseudo Labels,,2021,2021-03-01,210000000,Vision
+MetaLM,,2022,2022-06-13,NA,Multimodal
+MetaMimic,,2018,2018-10-11,NA,Games
+Minerva (540B),,2022,2022-06-29,2700000000,Language
+Mitosis,,2013,2013-09-22,140,Vision
+MnasNet-A1 + SSDLite,,2019,2019-05-29,1500000,Vision
+MnasNet-A3,,2019,2019-05-29,1500000,Vision
+MoCo,,2019,2019-11-13,NA,Drawing
+MoE,,2017,2017-01-23,94000,Language
+MobileBERT,,2020,2020-04-06,NA,Language
+MobileNet,,2017,2017-04-17,NA,Vision
+MobileNetV2,,2018,2018-06-18,NA,Vision
+MuZero,,2019,2019-11-19,48000,Games
+Multiresolution CNN,,2014,2014-06-23,NA,Video
+NASNet-A,,2017,2017-07-21,NA,Vision
+NASv3 (CIFAR-10),,2016,2016-11-05,2200000,Vision
+NEO (DL:RM-2022),,2021,2021-09-15,1100000,Recommendation
+NLLB,,2022,2022-07-06,18000000,Language
+NLP from scratch,,2011,2011-11-08,NA,Language
+NPLM,,2003,2003-03-15,1.3,Language
+NTM,,2014,2014-12-10,NA,Other
+Naive Bayes,,1974,1974-09-01,NA,Vision
+Named Entity Recognition model,,2016,2016-07-21,97,Language
+Neocognitron,,1980,1980-04-01,2.3e-7,Vision
+NetTalk,,1987,1987-06-06,0.000081,Speech
+Network in Network,,2013,2013-12-16,NA,Other
+NeuMF (Pinterest),,2017,2017-08-16,NA,Recommendation
+Noisy Student (L2),,2019,2019-11-11,NA,Vision
+NoisyNet-Dueling,,2017,2017-06-30,NA,Games
+NÜWA,,2021,2021-11-24,4800000,Multimodal
+OPT-175B,,2022,2022-05-02,760000000,Language
+ObjectNet,,2019,2019-09-06,19000,Vision
+Once for All,,2020,2020-04-29,1800000,Vision
+OpenAI Five,,2019,2019-12-13,67000000,Games
+OpenAI Five Rerun,,2019,2019-12-13,13000000,Games
+OpenAI TI7 DOTA 1v1,,2017,2017-08-11,600000,Games
+PCL-BAIDU Wenxin (ERNIE 3.0 Titan),,2021,2021-12-23,NA,Language
+PNAS-net,,2017,2017-12-02,NA,Vision
+PNASNet-5,,2017,2017-12-02,66000,Other
+PaLM (540B),,2022,2022-04-04,2500000000,Language
+PanGu-α,,2021,2021-04-25,58000000,Language
+Pandemonium (morse),,1959,1959-02-01,6e-7,Other
+Part-of-sentence tagging model,,2016,2016-07-21,150,Language
+Parti,,2022,2022-06-22,400000000,Drawing
+Peephole LSTM,,2000,2000-07-26,NA,Other
+Perceiver IO,,2020,2020-02-08,NA,Multimodal
+Perceptron Mark I,,1957,1957-01-01,6.9e-10,Vision
+Phrase-based translation,,2003,2003-05-01,NA,Language
+Player of Games,,2021,2021-12-06,NA,Games
+PointNet,,2016,2016-12-02,NA,Other
+PointNet++,,2017,2017-06-07,NA,Other
+PolyNet,,2016,2016-11-17,NA,Vision
+Population-based DRL,,2018,2018-07-03,35000,Games
+PreTrans-3L-250H,,2013,2013-03-22,NA,Speech
+Primer,,2022,2022-01-24,7100000,Language
+ProGen,,2020,2020-03-13,270000,Other
+ProtT5-XXL,,2021,2021-05-04,74000000,Other
+ProxylessNAS,,2019,2019-02-23,37000,Vision
+Q-learning,,1989,1989-01-01,NA,Other
+R-CNN (T-net),,2013,2013-11-11,NA,Vision
+R-FCN,,2016,2016-06-21,61,Vision
+RETRO-7B,,2022,2022-02-07,NA,Language
+RL mapping instructions (games),,2009,2009-08-01,NA,Reading
+RL mapping instructions (troubleshooting),,2009,2009-08-02,NA,Reading
+RNN 500/10 + RT09 LM (NIST RT05),,2010,2010-09-26,3.4,Speech
+RNN for speech,,1998,1998-05-15,0.00023,Speech
+RNNsearch-50*,,2014,2014-09-01,1600,Language
+Random Decision Forests,,1995,1995-08-14,NA,Other
+Rational DQN Average,,2021,2021-02-18,NA,Games
+ReLU (LFW),,2010,2010-06-15,NA,Vision
+ReLU (NORB),,2010,2010-06-15,NA,Vision
+RefineNet,,2016,2016-11-20,NA,Vision
+Refined Part Pooling,,2018,2018-01-09,NA,Vision
+ResNeXt-101 32x48d,,2018,2018-05-02,NA,Vision
+ResNeXt-101 Billion-scale,,2019,2019-05-02,NA,Vision
+ResNeXt-50,,2016,2016-11-16,NA,Vision
+ResNet-110 (CIFAR-10),,2015,2015-12-10,NA,Vision
+ResNet-152 (ImageNet),,2015,2015-12-10,12000,Vision
+ResNet-50 Billion-scale,,2019,2019-05-02,NA,Vision
+Restricted Bolzmann machines,,2007,2007-06-20,NA,Recommendation
+RetinaNet-R101,,2017,2017-08-07,NA,Vision
+RetinaNet-R50,,2017,2017-08-07,NA,Vision
+RoBERTa,,2019,2019-07-01,NA,Language
+Rotation,,2018,2018-03-21,NA,Drawing
+Rubik's cube,,2019,2019-10-15,850000,Robotics
+SACHS,,2005,2005-04-22,NA,Other
+SEER,,2021,2021-07-29,4400000,Vision
+SENet (ImageNet),,2017,2017-09-05,NA,Vision
+SNARC,,1952,1952-01-08,NA,Other
+SPPNet,,2014,2014-06-18,6100,Vision
+STeLLA,,1963,1963-06-01,NA,Other
+Samuel Neural Checkers,,1959,1959-07-01,4.3e-7,Games
+Samuel Neural Checkers II,,1967,1967-11-01,NA,Games
+Sandstorm (DARPA Grand Challenge I),,2004,2004-06-14,NA,Driving
+Self Organizing System,,1955,1955-03-01,NA,Vision
+Semantic Hashing,,2008,2008-12-10,NA,Other
+Seq2Seq LSTM,,2014,2014-09-10,7300,Language
+ShuffleNet v1,,2017,2017-07-03,NA,Vision
+ShuffleNet v2,,2018,2018-06-30,NA,Vision
+SimCLR,,2020,2020-02-13,NA,Drawing
+SimCLRv2,,2020,2020-10-26,NA,Other
+SmooCT,,2014,2014-07-01,NA,Games
+Sparse all-MLP,,2022,2022-04-14,22000,Language
+SqueezeBERT,,2020,2020-06-10,NA,Language
+SqueezeNet,,2016,2016-02-24,NA,Vision
+Stacked Semisuperviser Autoencoders,,2008,2008-07-15,NA,Language
+Stacked hourglass network,,2016,2016-09-17,NA,Vision
+Stanley /DARPA Grand Challenge 2),,2006,2006-01-01,NA,Driving
+StarGAN v2,,2019,2019-12-04,NA,Drawing
+Statement Curriculum Learning,,2022,2022-03-02,NA,Language
+Support Vector Machines,,1995,1995-09-01,NA,Other
+Switch,,2021,2021-01-11,82000000,Language
+System 11,,1996,1996-06-18,9.6e-7,Vision
+T0-XXL,,2021,2021-10-15,NA,Language
+T5-11B,,2019,2019-10-23,41000000,Language
+T5-3B,,2019,2019-10-23,10000000,Language
+TD(0),,1977,1977-08-01,NA,Other
+TD-Gammon,,1992,1992-05-01,0.018,Games
+Theseus,,1950,1950-07-02,4e-14,Other
+Theseus 6/768,,2020,2020-02-07,NA,Language
+Thumbs Up?,,2002,2002-05-28,NA,Language
+Time-delay neural networks,,1989,1989-03-03,NA,Other
+TransE,,2013,2013-12-05,1300,Other
+Transformer,,2017,2017-06-12,7400,Language
+Transformer ELMo,,2019,2019-01-01,NA,Language
+Transformer local-attention (NesT-B),,2021,2021-05-26,24000,Vision
+Turing NLG,,2020,2020-02-13,16000000,Language
+UL2,,2022,2022-05-10,NA,Language
+ULM-FiT,,2018,2018-01-18,NA,Language
+VGG16,,2014,2014-09-04,8500,Vision
+VGG19,,2014,2014-09-04,NA,Vision
+VQGAN + CLIP,,2020,2020-12-17,NA,Drawing
+ViT-Base/32,,2020,2020-10-22,NA,Vision
+ViT-G/14,,2021,2021-06-08,3400000,Vision
+ViT-H/14,,2020,2020-09-28,13000000,Vision
+ViT-Huge/14,,2020,2020-10-22,NA,Vision
+Visualizing CNNs,,2013,2013-11-12,530,Vision
+Wide Residual Network,,2016,2016-09-19,NA,Vision
+Word Representations,,2010,2010-06-01,NA,Language
+Word2Vec (large),,2013,2013-10-16,39,Language
+Word2Vec (small),,2013,2013-10-16,NA,Language
+Wu Dao - Wen Hui,,2021,2021-03-01,NA,Multimodal
+Wu Dao - Wen Lan,,2021,2021-03-01,NA,Multimodal
+Wu Dao - Wen Su,,2021,2021-03-01,NA,Other
+Wu Dao - Wen Yuan,,2021,2021-03-01,NA,Language
+Wu Dao 2.0,,2021,2021-06-01,NA,Multimodal
+XLM,,2019,2019-06-01,NA,Language
+XLMR-XXL,,2021,2021-08-17,NA,Language
+XLNet,,2019,2019-06-01,NA,Language
+Xception,,2016,2016-10-07,44000,Vision
+YOLO,,2015,2015-06-08,NA,Vision
+YOLOv2,,2016,2016-12-25,NA,Vision
+YOLOv3,,2018,2018-04-08,51000,Vision
+Yuan 1.0,,2021,2021-10-12,410000000,Language
+Zip CNN,,1989,1989-12-01,0.000043,Vision
+data2vec (language),,2022,2022-01-20,NA,Language
+data2vec (speech),,2022,2022-01-20,NA,Speech
+data2vec (vision),,2022,2022-01-20,NA,Vision
+iGPT-L,,2020,2020-06-17,8900000,Drawing
+iGPT-XL,,2020,2020-06-17,33000000,Drawing
+wave2vec 2.0 LARGE,,2020,2020-10-22,430000,Speech
+λ-WASP,,2007,2007-06-01,NA,Language
